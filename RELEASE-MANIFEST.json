@@ -1,0 +1,24 @@
+{
+  "project": "Website Profil Dusun Pulesari",
+  "release": "Mobile Portrait Fix v1.2",
+  "target": "https://dusunpulesari-debug.github.io/profildusunpulesariV7/",
+  "html_files": [
+    "index.html",
+    "profil-dusun.html",
+    "data-penduduk.html",
+    "produk-hukum-dusun.html",
+    "kelembagaan.html",
+    "program-dusun.html",
+    "kegiatan-agenda.html",
+    "potensi-dusun.html",
+    "peta-interaktif.html",
+    "galeri-dokumentasi.html",
+    "layanan-masyarakat.html",
+    "pusat-informasi.html",
+    "kontak.html",
+    "pengaturan.html",
+    "404.html"
+  ],
+  "mobile_hero": "embedded as a data URI in index.html",
+  "data_policy": "placeholder until verified official data is supplied"
+}
